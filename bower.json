@@ -1,0 +1,22 @@
+{
+  "name": "AngularPt1-Homework",
+  "homepage": "https://github.com/vplusk/BSA-Hometask",
+  "authors": [
+    "vplusk <vplusk.od@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"    
+  }
+}
